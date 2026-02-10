@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"owner":"www-data","group":"www-data","guestpath":"/var/www/html","hostpath":"C:/Users/Usuario/Desktop/2asir/CENY/vagrant-projects/PE01-LAMP/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Usuario/Desktop/2asir/CENY/vagrant-projects/PE01-LAMP","disabled":false,"__vagrantfile":true}}}
